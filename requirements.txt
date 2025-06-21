@@ -1,9 +1,11 @@
 pandas
 numpy
 scikit-learn
-matplotlib.pyplot
+matplotlib
 seaborn
 scipy
 statsmodels
 beautifulsoup4
 requests
+tqdm
+# Optional dependencies for advanced features
