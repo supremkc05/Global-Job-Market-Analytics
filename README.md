@@ -6,4 +6,7 @@ Requirements is setup according to the libaries needed for the project.
 
 Data is scrapped using the library called beautifulsoap form a job listing platform called remoteok.
 
-new data is added in this project from the kaggle.
+New data is added in this project from the kaggle.
+
+#Data cleaning part#
+
