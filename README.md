@@ -9,10 +9,10 @@ Data is scrapped using the library called beautifulsoap form a job listing platf
 New data is added in this project from the kaggle.
 
 *Data cleaning part*
-preprocessed using 
-df.head()
-df.info()
-df.columns
-df.shape
+preprocessed using </br>
+df.head()</br>
+df.info()</br>
+df.columns</br>
+df.shape</br>
 
 *cleaning*
