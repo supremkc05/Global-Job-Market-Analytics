@@ -16,3 +16,4 @@ df.columns</br>
 df.shape</br>
 
 *cleaning*
+cleaned and perfromed eda 
